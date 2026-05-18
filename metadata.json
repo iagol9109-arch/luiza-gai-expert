@@ -1,0 +1,6 @@
+{
+  "name": "Luiza Gai - Dentista Premium",
+  "description": "Landing page de alta conversão para a Dra. Luiza Gai, dentista em Caxias do Sul. Foco em agendamento de consulta gratuita via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
